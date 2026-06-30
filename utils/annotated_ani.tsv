@@ -1,0 +1,6 @@
+Bin	Ref_file	ANI	Fragments_hit	Total_fragments	Ref_species	Ref_strain	CheckM_completeness	CheckM_contamination	CheckM_strain_heterogeneity
+/home/zehan/pipeline_output/binning/bin.1.fa	/mnt/e/database/ncbi/shigella/oud_genbank_genome/GCA_008727215.1_ASM872721v1_genomic.fna.gz	99.8633	1194	1201	Shigella sonnei	AR-0426	93.96	0.11	0.0
+/home/zehan/pipeline_output/binning/bin.1.fa	/mnt/e/database/ncbi/shigella/oud_genbank_genome/GCA_000012025.1_ASM1202v1_genomic.fna.gz	98.1143	1092	1201	Shigella boydii Sb227	Sb227	93.96	0.11	0.0
+/home/zehan/pipeline_output/binning/bin.1.fa	/mnt/e/database/ncbi/shigella/oud_genbank_genome/GCA_002968215.1_ASM296821v1_genomic.fna.gz	98.0529	1074	1201	Shigella dysenteriae	ATCC 12038	93.96	0.11	0.0
+/home/zehan/pipeline_output/binning/bin.1.fa	/mnt/e/database/ncbi/shigella/oud_genbank_genome/GCA_002949495.1_ASM294949v1_genomic.fna.gz	97.9549	1124	1201	Shigella boydii	59-2708	93.96	0.11	0.0
+/home/zehan/pipeline_output/binning/bin.1.fa	/mnt/e/database/ncbi/shigella/oud_genbank_genome/GCA_963281075.1_NZ_220527_assembly_012_genomic.fna.gz	97.8562	1102	1201	Shigella flexneri		93.96	0.11	0.0
