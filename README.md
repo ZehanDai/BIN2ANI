@@ -82,5 +82,5 @@ bash ./pipe.sh -1 $fq1 -2 $fq2 -r $refd -o $oud
 
 ### Integrating checkM and fastANI output (Optional) 
 A supplementary python3 script file `annotate_ani.py` was provided udner `utils/`, which could assist in merging fastANI output with optional CheckM metrics (completeness and contamination). Given a NCBI Genome database TSV (e.g., `shigella_ncbi_GenomeDatabase.tsv`), it also adds taxonomic annotations (species, strain, etc.) to the fastANI results.
-Usage:
+
 
